@@ -4,7 +4,7 @@
 
 # umn = int(input())
 # for i in range(umn * 10):
-#     print(i)
+#     print(i +1)
 
 
 # for e in range(5, 50, 5):
