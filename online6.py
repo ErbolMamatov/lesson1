@@ -35,3 +35,36 @@
 # while bb < len(aa):
 #     print(aa[bb],end="")
 #     bb += 2
+
+
+# num = 10
+# while num >= 1:
+#     print(num)
+#     num -= 1
+
+
+
+
+
+########бесканечно !!!!!!!############
+# aa = 'python'
+# while aa:
+#     print(aa)
+
+
+######################### куб до 5
+# cub = 1
+# while cub <= 5:
+#     print(cub ** 3)
+#     cub += 1
+
+
+
+# def is_aa(ab):
+#     return ab % 3 ==0
+# aa = is_aa(7)
+# print(aa)
+
+
+
+
