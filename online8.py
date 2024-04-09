@@ -41,3 +41,40 @@
 # a = "привет "
 # b = "мир"
 # print(log(a, b))
+
+
+
+
+# agre = dict(name='Erbol',age=17)
+# print(agre.values())
+
+
+# firstname = input("имя ")
+# lastname = input("фамилия ")
+# age = int(input("возраст "))
+# user = dict(firstname=firstname,lastname=lastname,age=age)
+# print(user)
+
+
+
+# e = int(input("количество друзей: "))
+# slovo = {}
+# for _ in range(e):
+#     name_g = input("имя: ")
+#     age_g = input("возраст: ")
+#     slovo[name_g] = age_g
+
+# print(slovo)
+
+# print(slovo.values())
+
+# print(slovo.keys())
+
+# for i, value in slovo.items():
+#     print(i, value)
+
+
+
+# coutris = {'Kyrgyzstan': 'Bishkek','Rossian':'Moscov'}
+# Rossian = coutris.pop('Rossian')
+# print(Rossian)
