@@ -52,13 +52,13 @@ class Student(Course):
         return f' имя студента - {self.name} фамилия - {self.surname}\n номер студенческой карты: {self.number_student_card}'
 
 
-class University(Student):
+class University:
     def info_teacher(self, teachers_name):
         return teachers_name
 
     def add_course(self, nev_curse_name):
-        self.course_lists.append(nev_curse_name)
-        print(self.course_lists)
+        # self.course_lists.append(nev_curse_name)
+        # print(self.course_lists)
 
     # def nev_curs_info(self):
         # return f'новый преподователь {self.teachers_name}, название нового курса {self.nev_curse_name}'
